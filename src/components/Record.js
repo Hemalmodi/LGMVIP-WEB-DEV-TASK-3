@@ -26,8 +26,7 @@ export default function Record({cards}){
                                 </ul>
                                 
                             </div>
-                            {/* <div className="image"> */}
-                            {/* </div> */}
+         
                         </div>
                         
                     ))
